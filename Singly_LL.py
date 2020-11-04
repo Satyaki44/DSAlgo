@@ -1,4 +1,4 @@
-# A simple Python program for traversal of a linked list 
+
   
 # Node class 
 class Node(object): 
@@ -85,6 +85,4 @@ if __name__=='__main__':
     llist.deletefirst()
     llist.printlist()
     llist.deletelast()
-    llist.printlist()
-
-    
+    llist.printlist() 
